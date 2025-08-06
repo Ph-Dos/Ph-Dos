@@ -1,5 +1,5 @@
 #### Welcome to  profile!
-<div>I'm a student interested in Systems & Backend development.</div>
+<div>I'm a student interested in Network & Backend development.</div>
 <div>My current obsessions are Rust, ML, and Low latency data streams using UDP & TCP.</div>
 <br>
 <div align="left">
